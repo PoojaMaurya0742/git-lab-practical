@@ -1,4 +1,4 @@
-# Git Lab Practical – DevOps Internship
+# Git Lab Practical – DevOps Class
 
 This repository contains the practical exercises completed during the **DevOps Git Lab**.  
 The main goal of this lab was to **practice version control, branching, and merging** using Git and GitHub.
