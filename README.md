@@ -94,14 +94,4 @@ GitHub: https://github.com/PoojaMaurya0742
 📌 License
 This repository is for educational purposes and is open for practice.
 
----
-
-✅ **Features of this README:**
-
-- Clean & simple  
-- Explains lab purpose clearly  
-- Shows file structure  
-- Steps to clone and practice  
-- Highlights key learnings
-
 --------
