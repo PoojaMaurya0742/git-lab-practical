@@ -52,6 +52,7 @@ Copy code
 1. Clone the repository:
 ```bash
 git clone https://github.com/PoojaMaurya0742/git-lab-practical.git
+```
 Navigate to the repository folder:
 
 bash
@@ -69,6 +70,8 @@ Copy code
 git checkout feature-branch-1
 Merge branches and resolve conflicts as part of practice.
 
+------
+
 ✨ Key Learnings
 Hands-on experience with Git commands
 
@@ -80,15 +83,16 @@ Collaboration workflow using remote repositories
 
 Conflict resolution during merges
 
+------
+
 👩‍💻 Developed By
 Pooja Maurya
 GitHub: https://github.com/PoojaMaurya0742
 
+-----
+
 📌 License
 This repository is for educational purposes and is open for practice.
-
-markdown
-Copy code
 
 ---
 
@@ -100,4 +104,4 @@ Copy code
 - Steps to clone and practice  
 - Highlights key learnings
 
-
+--------
